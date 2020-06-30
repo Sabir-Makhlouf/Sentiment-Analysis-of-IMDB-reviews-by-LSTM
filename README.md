@@ -1,5 +1,8 @@
 **Sentiment Analysis of IMDB reviews by LSTM**
 ==============================================
+[My Linkedin](https://www.linkedin.com/in/sabirmakhlouf) <br />
+[My Facebook](https://www.facebook.com/MakhloufSabir) <br />
+[My twitter](https://twitter.com/Sabir_Makhlouf) <br />
 
  
 
